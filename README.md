@@ -547,7 +547,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-MIT License
+
 
 Copyright (c) 2024 Youssef BEN LETAIFA
 
@@ -591,6 +591,6 @@ SOFTWARE.
 ![GitHub stars](https://img.shields.io/github/stars/youssef-ben-letaifa/ev-predictor?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/youssef-ben-letaifa/ev-predictor?style=social)
 
-**Version 1.0** | Last Updated: January 2025
+**Version 1.0** | Last Updated: January 2026
 
 </div>
