@@ -549,7 +549,7 @@ Contributions are welcome! Here's how you can help:
 
 
 
-Copyright (c) 2024 Youssef BEN LETAIFA
+Copyright (c) 2026 Youssef BEN LETAIFA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
