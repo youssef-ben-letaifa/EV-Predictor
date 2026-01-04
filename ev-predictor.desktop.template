@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=EV Predictor
+Comment=EV Predictor — Predictive maintenance dashboard
+Exec=%APPDIR%/run-app.sh %u
+Icon=%ICONPATH%
+Type=Application
+Terminal=false
+Categories=Utility;Development;
+StartupWMClass=ev-predictor
