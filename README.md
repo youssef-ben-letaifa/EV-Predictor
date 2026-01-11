@@ -12,6 +12,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
 </p>
 
+## 🎥 Demo Video
+
+<div align="center">
+
+### Watch the EV Predictor in Action
+
+[![EV Predictor Demo](https://img.youtube.com/vi/mP_v6105PHo/maxresdefault.jpg)](https://youtu.be/mP_v6105PHo)
+
+**[▶️ Watch Full Demo on YouTube](https://youtu.be/mP_v6105PHo)**
+
+*See real-time telemetry visualization, battery health monitoring, predictive analytics, and component diagnostics in action*
+
+</div>
+
+---
+
 A modern desktop and web application for visualizing and predicting electric vehicle component health. Monitor battery, motor, thermal systems, charging, and more with real-time telemetry and predictive analytics.
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
